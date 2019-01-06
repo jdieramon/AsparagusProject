@@ -8,6 +8,11 @@ genome. Take-away message:
   suggesting that the functional conservation of the duplicated family members is a major feature of the evolution of these 
   genes.
 
+<br>
+  
+  
+  ![nbs/fig1.png]
+  Figure1. 
 
 If you use any of those resources for your research, please cite: 
 
