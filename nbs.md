@@ -11,8 +11,8 @@ genome. Take-away message:
 <br>
   
   
-  ![nbs/fig1.png]
-  Figure1. 
+  ![](nbs/fig1.png)
+  Figure1. Legend
 
 If you use any of those resources for your research, please cite: 
 
