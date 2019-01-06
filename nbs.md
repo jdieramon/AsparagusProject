@@ -10,7 +10,7 @@ genome. Take-away message:
 
 <br>
 
- * NBS protein [sequences](nbs/protein.fasta) . 
+ * Download the 49 NBS protein [sequences](nbs/protein.fasta)    
  
 
   
