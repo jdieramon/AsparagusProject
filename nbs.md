@@ -7,3 +7,8 @@ genome. Take-away message:
   3. Expression data revealed that most of the duplicated members within a group exhibited the same expression pattern, 
   suggesting that the functional conservation of the duplicated family members is a major feature of the evolution of these 
   genes.
+
+
+If you use any of those resources for your research, please cite: 
+
+Die JV, Castro P, Millan T, Gil J. (2018) [Segmental and Tandem Duplications Driving the Recent NBS-LRR Gene Expansion in the Asparagus Genome](https://www.mdpi.com/2073-4425/9/12/568). Genes, 9(12), 568; doi: 10.3390/genes9120568
