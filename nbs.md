@@ -12,7 +12,7 @@ genome. Take-away message:
   
   
   ![](nbs/fig1.png)
-  Figure1. Legend
+  **Figure1. A.** Nucleotide binding sites (NBS) genes on chromosome 6. **B.** Gene duplication history. Red color shows the highest similarity (>99% identity), followed by orange (95–99%) and green (90–95%) colors.
 
 If you use any of those resources for your research, please cite: 
 
