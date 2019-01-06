@@ -10,7 +10,8 @@ genome. Take-away message:
 
 <br>
 
- * NBS protein sequences
+ * NBS protein [sequences](nbs/protein.fasta) . 
+ 
 
   
   ![](nbs/fig1.png)
