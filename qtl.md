@@ -9,7 +9,7 @@ Here, we performed a quantitative trait loci (QTL) analysis to understand the ge
 
    
   
-  ![](qtl.png)
+  ![](qtl/qtl.png)
   **Figure1. A.** Distribution of recombination frequency between bins along chromosome 1 of *A. officinalis*. **B.** Map bins. **C.** Fluorescence in situ hybridization (FISH) with rDNA 5s probe on chromosome 1.  
 
 
